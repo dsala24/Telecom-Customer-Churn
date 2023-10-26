@@ -29,7 +29,5 @@ This project showcases the potential of machine learning analytics to address cu
 ### Future Work
 Future work includes expanding the dataset, incorporating real-time data, and exploring advanced techniques like deep learning and ensemble methods. Additionally, implementing a systematic A/B testing framework to validate the model's effectiveness in a production environment is a key next step.
 
-### References
-•	Smith, J. (2018). "Telecom Customer Churn Analysis." Telecom Business Review, 45(2), 123-136.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 This example provides a structured and detailed overview of a machine learning project aimed at predicting telecom customer churn. It covers key aspects of the project, from data collection and preprocessing to model selection and evaluation, and offers insights into future improvements and potential real-world applications.
